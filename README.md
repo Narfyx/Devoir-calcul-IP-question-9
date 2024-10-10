@@ -1,5 +1,10 @@
 # Devoir-calcul-IP-question-9
 
+## Question:
+Comment savoir si les IP noeuds suivant peuvent communiquer :
+Imprimante 192.168.5.125/23PC  192.168.6.12
+Donner une méthode basé sur le calcul binaire et une autre basé sur https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/ en déterminant pour un des noeuds sa plage d'adresse réseau
+
 ## Méthode 1 : Basée sur le calcul binaire
 Pour déterminer si deux adresses IP peuvent communiquer directement sur le même réseau, nous devons comparer leurs **adresses réseau** respectives. Pour cela, nous utilisons l'**adresse IP** et le **masque de sous-réseau** pour chaque nœud et effectuons un **"AND" binaire** entre l'adresse IP et le masque de sous-réseau.
 
