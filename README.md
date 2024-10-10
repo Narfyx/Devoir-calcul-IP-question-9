@@ -65,7 +65,7 @@ Comme les deux appareils appartiennent à la même adresse réseau, **ils peuven
 
 ### Méthode 2 : Utilisation de l'outil en ligne
 
-1. **Aller sur l'outil en ligne** : [CalculMasque de CRIC Grenoble](https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/).
+1. **L'outil en ligne** : [CalculMasque de CRIC Grenoble](https://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/).
     
 2. **Entrer l'adresse IP de l'imprimante** : 192.168.5.125 avec le masque de sous-réseau **/23**.
     
